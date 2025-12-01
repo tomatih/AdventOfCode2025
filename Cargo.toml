@@ -12,3 +12,4 @@ name = "d1p2"
 path = "src/Day1/part2.rs"
 
 [dependencies]
+anyhow = "1.0.100"
