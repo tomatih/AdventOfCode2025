@@ -36,5 +36,9 @@ path = "src/Day4/part1.rs"
 name = "d4p2"
 path = "src/Day4/part2.rs"
 
+[[bin]]
+name = "d5p1"
+path = "src/Day5/part1.rs"
+
 [dependencies]
 anyhow = "1.0.100"
